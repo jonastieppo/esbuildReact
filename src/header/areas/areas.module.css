@@ -1,0 +1,17 @@
+.areasDiv{
+    align-items: center;
+}
+
+.areas {
+    color: white;
+    font-weight: bold;
+    font-size : 0.812rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    text-decoration: none;
+}
+
+.areasDiv:hover {
+    border-bottom: 1px #0178ff solid;
+    transition: 300ms;
+}
