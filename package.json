@@ -9,7 +9,7 @@
     "react-dom": "^18.2.0"
   },
   "scripts": {
-    "start": "nodemon --exec \"node browser-builder.js && http-server -c-1 -p 4201\" -e tsx,ts,html,css --ignore ./dist"
+    "start": "nodemon --exec \"node browser-builder.js && http-server -c-1 -p 4223\" -e tsx,ts,html,css --ignore ./dist"
   },
   "devDependencies": {
     "esbuild-css-modules-plugin": "^2.7.1",

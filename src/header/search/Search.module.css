@@ -1,12 +1,14 @@
 .searchIcon {
     color: white;
     fill: white;
+    padding-right: 0.2rem;
 }
 
 .searchDiv {
     align-items: center;
-    border: 1px white dotted;
     padding: 0;
+    background-color: #202224;
+    width: 224px;
 
 }
 
@@ -15,6 +17,6 @@
     font-size: 0.8125rem;
     color: white;
     font-weight: bold;
-    border: 1px white dotted;
     margin: none;
+    padding-left: 0.5rem;
 }
